@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\IOTS\\esp\\led\\blink"
+		},
+		{
+			"name": "esp32_led",
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.tcc": "cpp",
+			"algorithm": "cpp"
+		}
+	}
+}
